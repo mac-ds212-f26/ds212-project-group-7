@@ -2,4 +2,36 @@
 title: "Proposal"
 ---
 
-Your proposal go here.
+Title:
+
+Team Member Names: Annabelle Adachi, Ebyan Hussein
+
+This project will explore trends in music popularity by analyzing data from the Billboard Top 100 chart. 
+
+Research Questions:
+- How do trends in popular music change over time?
+- What are some of the most popular phrases used in song titles by genre?
+- How does the popularity of certain genres change over time?
+
+Reason for choosing topic: We were curious about trends in what kind of music is most popular.
+
+Data Set: https://www.kaggle.com/datasets/ludmin/billboard/versions/131 
+
+Communication Plan: In-person in class or before/after class and Google Chat
+
+Roles:
+- Point of Contact: Ebyan
+- Technical Lead: Annabelle and Ebyan
+- Style Lead: Annabelle
+
+Conflict resolution: We will rely on clear communication to resolve any issues. We both have a shared goal of completing this project and doing a good job. We will hold each other accountable.
+
+Implementation Plan:
+1. Load and wrangle data
+2. Make preliminary univariate visualizations to decide which variables we want to explore
+3. Refine research questions
+4. Create multivariate visualizations for each of the research questions
+5. Format visualizations according to effective visualization guide
+6. Create data story incorporating the visualizations and all elements of the required report structure
+
+
